@@ -95,7 +95,7 @@
   width: 0;
   height: 0;
   border-radius: 50%;
-  /* background-color: rgb(255, 124, 64); */
+  background-color: rgb(255, 124, 64);
   visibility: hidden;
   transition: all 200ms ease-out;
   color: #fff;
